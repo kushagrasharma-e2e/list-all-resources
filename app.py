@@ -1,6 +1,6 @@
-import streamlit as st
 import requests
 import pandas as pd
+import streamlit as st
 
 BASE_URL = "https://api.e2enetworks.com/myaccount/api/v1/"
 
